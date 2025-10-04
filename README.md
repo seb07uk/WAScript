@@ -1,0 +1,92 @@
+                  Windows Automation Script
+                            Batch
+ 
+ Here you will find not only useful tools and access to hidden functions and settings, but also something to have fun with, such as classic-style text games and funny graphics.
+
+
+ 
+ ***`Contents:`***
+1. *graphics and animations*
+2. *gui*
+3. *install and update*
+4. *network*
+5. *remove and uninstall*
+6. *templates*
+7. *toolls*
+
+
+        
+        
+***01) graphics and animations***
+* Earth ASCII Animation.bat
+* Matrix.bat
+* Parrot.bat
+* TV No Signal (color bars).bat
+
+
+
+
+***02) gui***
+* Input Boxes.bat
+* Message Boxes.bat
+* Multiple GUI Choices (Tick).bat
+* Native Windows Notifications.bat
+* Nested GUI buttons example via mshta snippet.bat
+* Nested GUI buttons example via powershell snippet.bat
+* Select an option (x3-HTA).bat
+
+
+
+***03) install and update***
+* dotNET Runtime Installer and Updater v1.0.0.bat
+* dotNET Runtime Installer and Updater v1.0.1.bat
+* Latest ADB Installer
+
+ 
+
+***04) network***
+* CMD FTP
+* IP Config.bat
+* Ping-er.bat
+* Wi-Fi-Profiles.bat
+
+
+
+***05) remove and uninstall***
+* MS Store App Remover
+* Widgets App Remover
+* Widgets Taskbar App Remover
+* OneDrive App Remove.bat
+* XBox App Remove.bat
+
+
+
+***06) templates***
+* administrator privileges
+
+    - Administrator privileges [BiW].bat
+    - Administrator privileges [Red].bat
+    - Administrator privileges (yes - no).bat
+
+* Progress Bar.bat
+* Simple Menu (Auto button).bat
+
+
+
+***07) toolls***
+* Bat2Exe 1.0.bat
+* Calculator.bat
+* Clock and Date (Real-Time)
+* Defrag Disk (C).bat
+* Defrag Disk (D).bat
+* System Image Repair (S.I.R).bat
+
+
+The scripts have been tested on Windows 11 24H2.
+
+***.NOTES***
+
+    Author     : Sebastian Januchowski
+    Company    : polsoft.ITS London
+    Mail       : polsoft.its@fastservice.com
+    GitHub     : https://github.com/seb07uk
