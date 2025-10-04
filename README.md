@@ -21,7 +21,7 @@
 * Earth ASCII Animation.bat
 * Matrix.bat
 * Parrot.bat
-* TV No Signal (color bars).bat
+* more...
 
 
 
@@ -30,10 +30,7 @@
 * Input Boxes.bat
 * Message Boxes.bat
 * Multiple GUI Choices (Tick).bat
-* Native Windows Notifications.bat
-* Nested GUI buttons example via mshta snippet.bat
-* Nested GUI buttons example via powershell snippet.bat
-* Select an option (x3-HTA).bat
+* more...
 
 
 
@@ -41,23 +38,23 @@
 * dotNET Runtime Installer and Updater v1.0.0.bat
 * dotNET Runtime Installer and Updater v1.0.1.bat
 * Latest ADB Installer
+* more...
 
  
 
 ***04) network***
 * CMD FTP
 * IP Config.bat
-* Ping-er.bat
 * Wi-Fi-Profiles.bat
+* more...
 
 
 
 ***05) remove and uninstall***
 * MS Store App Remover
 * Widgets App Remover
-* Widgets Taskbar App Remover
 * OneDrive App Remove.bat
-* XBox App Remove.bat
+* more...
 
 
 
@@ -76,10 +73,8 @@
 ***07) toolls***
 * Bat2Exe 1.0.bat
 * Calculator.bat
-* Clock and Date (Real-Time)
-* Defrag Disk (C).bat
-* Defrag Disk (D).bat
 * System Image Repair (S.I.R).bat
+* more...
 
 
 The scripts have been tested on Windows 11 24H2.
