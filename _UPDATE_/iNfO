@@ -1,2 +1,3 @@
 iNfO'diag - is a computer diagnostics script that displays hardware and software information.
 Multi-Tools CleanUp - is a script to clean your computer and remove junk.
+DISM and SFC Tools - is a built-in command-line tool for Windows that services and prepares Windows images. It can be used to repair corrupted Windows system files, install or uninstall features and drivers, and manage Windows images (.wim, .vhd, .vhdx files).
